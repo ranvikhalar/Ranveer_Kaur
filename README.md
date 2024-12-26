@@ -44,13 +44,13 @@ Feel free to explore my repositories, where you’ll find projects that showcase
 
 ---
 ### :trophy: My Certifications
-- [SAS Training Certificate: Categorical Data Analysis Using Logistic Regression](https://www.example.com/sas-logistic-regression)
-- [SAS Certified Specialist: Base Programming Using SAS 9.4](https://www.example.com/sas-certified-specialist)
-- [SAS Certified Professional: Advanced Programming Using SAS 9.4](https://www.example.com/sas-certified-professional)
-- [Python for Data Science and Machine Learning Bootcamp: Python Certificate](https://www.example.com/python-udemy)
-- [Advance Your Skills as an R Expert from LinkedIn Learning](https://www.example.com/advanced-r-skills)
-- [Data Cleaning, Validation, Visualization, Analysis (R)](https://www.example.com/r-data-analysis)
-- [Tri-Council Policy Statement (TCPS 2: CORE)](https://www.example.com/tcps2-ethics)
+- [Introdution to Data Science](https://www.credly.com/badges/19fc1bde-6eaf-470d-8272-a4e2205ef992/public_url)
+- [SAS Training Certificate: Categorical Data Analysis Using Logistic Regression](https://www.credly.com/badges/fb4e5ccf-3ea4-4dea-8b61-82083276f43c/public_url)
+- [SAS Certified Specialist: Base Programming Using SAS 9.4](https://www.credly.com/badges/9df9f6e0-72b2-4840-b537-f9a586d3c541?source=linked_in_profile)
+- [SAS Certified Professional: Advanced Programming Using SAS 9.4](https://www.credly.com/badges/ac449bea-6f30-4cc3-9fa5-effe4ce2db1a?source=linked_in_profile)
+- [Python for Data Science and Machine Learning Bootcamp: Python Certificate](https://www.udemy.com/certificate/UC-59973f34-936d-4a12-b107-621a042a41db/)
+- [Advance Your Skills as an R Expert from LinkedIn Learning](https://www.linkedin.com/learning/certificates/42ce4662d63c09726d49478aca4e3cdd9388a6abfe07b729d08d357c67679a2d?trk=backfilled_certificate)
+- Tri-Council Policy Statement (TCPS 2: CORE)
 
 ---
 
