@@ -37,8 +37,8 @@ Feel free to explore my repositories, where you’ll find projects that showcase
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
-  <img src="https://img.icons8.com/ios/452/sas.png" title="SAS" alt="SAS" width="40" height="40"/>&nbsp;
-  <img src="https://img.icons8.com/ios/452/tableau.png" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp;
+  <img src="https://www.sas.com/en/news/media-gallery/all-images/sas-logo-white-reversed-new/_jcr_content/par/image_360101046.img.png/1639774080219.png" title="SAS" alt="SAS" width="40" height="40"/>&nbsp;
+  <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
