@@ -52,8 +52,8 @@ Feel free to explore my repositories, where you’ll find projects that showcase
 - Tri-Council Policy Statement (TCPS 2: CORE)
 
 ---
-
-
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ranvikhalar&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 
